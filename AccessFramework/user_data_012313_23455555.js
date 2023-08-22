@@ -1,0 +1,1 @@
+{"individual":{"name":"Hongzhi Li","age":"35","IDNum":"23455555","address":"An Hui, Chizhou","job":"teacher","extra":"xxxxxxxxx"},"physiology":{"heartRate":"61.96","pulse":"130856","bloodPres":"110","extra":"xxxxxxxxx"},"diagnosis":{"content":"Bronchoscopy rigid Bronchoscopy has been replaced by fiberoptic bronchoscopy","author":"black bill","time":1692505423}}

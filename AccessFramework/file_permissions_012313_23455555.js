@@ -1,0 +1,1 @@
+{"fileId":"012313_23455555","rights":[{"role":"Doctors","individual":1,"physiology":1,"diagnosis":1},{"role":"Pharmacists","individual":0,"physiology":1,"diagnosis":1},{"role":"Academics","individual":0,"physiology":0,"diagnosis":1}]}
